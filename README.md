@@ -1,4 +1,4 @@
-# S-teW
+# SiteW
 this SİteW
 This code measures how much load your site can handle.
 ## Disclaimer
